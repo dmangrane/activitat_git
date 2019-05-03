@@ -1,0 +1,10 @@
+body{
+    background-color: steelblue;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.caixa{
+    padding: 2%;
+}
